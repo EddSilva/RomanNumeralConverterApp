@@ -126,7 +126,6 @@ namespace UnitTest
             Assert.AreEqual("MCMXLIV", result);
         }
 
-
         [TestMethod]
         public void ONE_THOUSAND_FOUR_HUNDRED_NINETY_FOUR_YELDS_MCDXCIV()
         {
@@ -134,7 +133,6 @@ namespace UnitTest
 
             Assert.AreEqual("MCDXCIV", result);
         }
-
 
         [TestMethod]
         public void FOUR_HUNDRED_NINETY_FOUR_YELDS_CDXCIV()
@@ -159,7 +157,6 @@ namespace UnitTest
 
             Assert.AreEqual("MMVI", result);
         }
-
 
         [TestMethod]
         public void ONE_THOUSAND_NINE_HUNDRED_NINETY_SIX_YELDS_MCMXCVI()
